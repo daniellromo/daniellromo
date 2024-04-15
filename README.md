@@ -2,7 +2,7 @@
 ![Image Alt Text](https://github.com/daniellromo/daniellromo/blob/main/1B832742-B5B2-4072-B48B-CFBC77377721_1_105_c.jpeg?raw=true)
 
 ## About Me
-I'm Daniel Romo, a self-taught programmer with a passion for leveraging technology to solve real-world problems. With a background in Chemical Engineering and completion of the HyperionDev Software Engineering Bootcamp, I've transitioned into the world of software engineering to pursue my interests in AI, data-driven optimization, and more 🌱.
+I'm Daniel, a self-taught programmer with a passion for leveraging technology to solve real-world problems. With a background in Chemical Engineering and completion of the HyperionDev Software Engineering Bootcamp, I've transitioned into the world of software engineering to pursue my interests in AI, data-driven optimization, and more 🌱.
 
 ## Tech Stack
 - **Languages**: Python, SQL, JavaScript, VBA, MATLAB
