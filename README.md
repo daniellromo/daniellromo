@@ -27,6 +27,8 @@ Check out my GitHub repositories to see my latest projects and contributions!
 - **Task Manager**: Also created during the bootcamp, this Task Manager stores user data and generates reports.
 
 ## Tech Stack
+<img src="https://simpleicons.org/icons/python.svg" width="30" height="30"> <img src="https://simpleicons.org/icons/sqlite.svg" width="30" height="30"> <img src="https://simpleicons.org/icons/javascript.svg" width="30" height="30"> <img src="https://simpleicons.org/icons/git.svg" width="30" height="30"> <img src="https://simpleicons.org/icons/github.svg" width="30" height="30">
+
 ![Daniel Romo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daniellromo&show_icons=true&theme=radical)
 
 [![Daniel Romo's Tech Stack](https://github-readme-stats.vercel.app/api/top-langs/?username=daniellromo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
