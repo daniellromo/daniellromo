@@ -26,7 +26,7 @@ Check out my GitHub repositories to see my latest projects and contributions!
 - **Finance Calculator**: Developed as part of the HyperionDev Bootcamp, this application helps users with financial calculations.
 - **Task Manager**: Also created during the bootcamp, this Task Manager stores user data and generates reports.
 
-### Tech Stack
+## Tech Stack
 ![Daniel Romo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daniellromo&show_icons=true&theme=radical)
 
 [![Daniel Romo's Tech Stack](https://github-readme-stats.vercel.app/api/top-langs/?username=daniellromo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
