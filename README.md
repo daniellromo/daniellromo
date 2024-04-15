@@ -28,6 +28,7 @@ Check out my GitHub repositories to see my latest projects and contributions!
 
 ## Tech Stack
 <img src="https://simpleicons.org/icons/python.svg" width="30" height="30"> <img src="https://simpleicons.org/icons/sqlite.svg" width="30" height="30"> <img src="https://simpleicons.org/icons/javascript.svg" width="30" height="30"> <img src="https://simpleicons.org/icons/git.svg" width="30" height="30"> <img src="https://simpleicons.org/icons/github.svg" width="30" height="30">
+<img src="https://simpleicons.org/icons/apple.svg" width="30" height="30"> <img src="https://simpleicons.org/icons/visualstudiocode.svg" width="30" height="30">
 
 ![Daniel Romo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daniellromo&show_icons=true&theme=radical)
 
